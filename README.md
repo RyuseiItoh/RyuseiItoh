@@ -1,4 +1,4 @@
-### Hi there 👋　　I'm Ryusei.__
+### Hi there 👋 I'm Ryusei.
 
 <!--
 **RyuseiItoh/RyuseiItoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
